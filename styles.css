@@ -407,7 +407,7 @@ section h2 {
 /* About Section */
 .about {
     background-color: #fff;
-    padding: 5rem 1rem;
+    padding: 1rem 1rem;
 }
 
 .about-content {
@@ -761,7 +761,7 @@ footer {
 /* Resume Section */
 .resume {
     background-color: #f8f9fa;
-    padding: 5rem 1rem;
+    padding: 1rem 1rem;
 }
 
 .resume-container {
